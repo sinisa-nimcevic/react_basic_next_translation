@@ -1,0 +1,1 @@
+{"ast":null,"code":"var NextI18Next = require(\"next-i18next\")[\"default\"];\n\nvar NextI18NextInstance = new NextI18Next({\n  defaultLanguage: \"en\",\n  otherLanguages: [\"hu\"]\n});\nmodule.exports = NextI18NextInstance;","map":null,"metadata":{},"sourceType":"script"}
